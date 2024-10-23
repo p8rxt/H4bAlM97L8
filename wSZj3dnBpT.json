@@ -1,6 +1,5 @@
 {
   "version": "1.0.1",
   "isMandatory": false,
-  "downloadUrl": "https://example.com/app/download/v2.1.0.apk",
-  "sha512": "xxxxxx"
+  "downloadUrl": "app.zip","
 }
