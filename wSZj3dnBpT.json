@@ -1,5 +1,6 @@
 {
   "version": "1.0.1",
-  "path": "xxx_1.0.25.exe",
+  "isMandatory": false,
+  "downloadUrl": "https://example.com/app/download/v2.1.0.apk",
   "sha512": "xxxxxx"
 }
