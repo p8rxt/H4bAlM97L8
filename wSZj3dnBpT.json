@@ -1,5 +1,6 @@
 {
-  "version": "1.0.1",
+  "version": "3.5.7",
   "isMandatory": false,
-  "downloadUrl": "app.zip"
+  "downloadUrl": "app.zip",
+  "fileHash": "959e2215febe4ea7fd023263cd11b344622b31b8596049f80213e0b5bf73d2c2"
 }
